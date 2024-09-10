@@ -2,7 +2,6 @@ import { useState } from "react"
 
 // Components
 import Header from "./components/Header"
-import Hero from "./components/Hero"
 import Footer from "./components/Footer"
 import MenuItem from "./components/MenuItem"
 
@@ -23,10 +22,9 @@ function App() {
   return (
     <>
       <Header />
-      <Hero />
       <section className="max-w-7xl mx-auto py-20">
         <main className="grid md:grid-cols-2">
-          <div className="bg-white p-6 rounded-lg shadow-md mx-2">
+          <div className="bg-white p-6 rounded-lg shadow-lg mx-2">
             <h2 className="text-2xl font-semibold text-blue-700 mb-4 text-center">Menu</h2>
             {
 

@@ -2,7 +2,7 @@
 
 Gratuity Calculator is a user-friendly app built with **React** and **TypeScript**, using **Vite** as the build tool. The application is deployed on **Netlify** and can be accessed via the following URL:
 
-**[Gratuity Calculator - Live Demo](https://resonant-axolotl-d20821.netlify.app/)**
+**[Gratuity Calculator - Live Demo](https://rococo-sherbet-b25cad.netlify.app/)**
 
 ## Table of Contents
 - [Description](#description)
@@ -46,7 +46,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/gratuity-calculator.git
+    git clone https://github.com/RicardoTrejoSanjuan/gratuity-calculator.git
     ```
 
 2. Navigate into the project directory:
